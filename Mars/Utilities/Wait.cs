@@ -7,7 +7,7 @@ namespace Mars.Utilities
 {
     public class Wait
     {
-        //generic function to wait - element exist
+        //generic function to wait - element exist...
         public static void ElementExists(IWebDriver driver, String locator, String locatorvalue, int seconds)
         {
 
